@@ -6,7 +6,7 @@ EntMini est une application mobile innovante conçue pour simplifier la vie univ
 
 ### Pourquoi EntMini ?
 
-Lors d'un hackathon organisé sur le campus de Beaulieu, nous avons identifié un besoin urgent : celui d'une solution mobile permettant aux étudiants de gérer plus facilement leurs emplois du temps et l'accès aux ressources du campus. Avec **EntMini**, notre objectif est de rendre l'expérience étudiante plus agréable et efficace.
+Lors d'un hackathon organisé sur le campus de Beaulieu, que nous avons remporté, nous avons identifié un besoin urgent : celui d'une solution mobile permettant aux étudiants de gérer plus facilement leurs emplois du temps et l'accès aux ressources du campus. Avec **EntMini**, notre objectif est de rendre l'expérience étudiante plus agréable et efficace.
 
 ### L'Équipe de Développement
 
